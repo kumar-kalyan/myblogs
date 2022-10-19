@@ -1,4 +1,4 @@
-# Get started with pusher channels
+# Get started with cache channels
 
 ## Introduction 
 Pusher  channels helps you to enable next level realime features to your applications like data filtering, realtime location, advanced chart analysis etc. This artcicle will help you  get  a clear idead about pusher channels and its  use case  and  also we will go through a  handson demo with pusher cache channels which is currently in beta.
