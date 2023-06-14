@@ -3,6 +3,7 @@ title: "Have you used the new  Tailwind play ?"
 datePublished: Wed Jun 14 2023 17:37:53 GMT+0000 (Coordinated Universal Time)
 cuid: clivzwasf000209mogy5l53ba
 slug: have-you-used-the-new-tailwind-play
+canonical: https://dev.to/kumarkalyan/have-you-checked-the-tailwind-play--1o23
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686764066345/a27f055d-a943-474c-babc-a36b688538b0.png
 tags: css-frameworks, css, css-animation, tailwind, tailwind-css
 
